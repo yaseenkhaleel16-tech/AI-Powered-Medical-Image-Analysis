@@ -56,13 +56,8 @@ python main.py
 - `models/synthetic_pattern_classifier.pkl`
 
 Scores apply only to the synthetic toy dataset and are not medical-image performance claims.
-
-## GitHub suggestion
-Repository name: `ai-medical-image-analysis-demo`
-
-Description: `Beginner-friendly Python demo of grayscale image preprocessing, feature extraction, classification, evaluation, and visualization using synthetic patterns.`
-
-Topics: `python`, `medical-imaging`, `machine-learning`, `image-processing`, `scikit-learn`, `computer-vision`, `education`
-
 ## Future learning
 For an advanced educational version, explore reputable public datasets and follow their license, privacy rules, and intended use. Do not publish patient-identifiable images. Using real clinical data requires careful validation and expert oversight; it does not automatically make a model a diagnostic tool.
+<img width="1500" height="600" alt="sample_preprocessed_images" src="https://github.com/user-attachments/assets/4343722e-fcf5-4cb2-b9d3-504c898e58b1" />
+<img width="825" height="675" alt="confusion_matrix" src="https://github.com/user-attachments/assets/eefba86d-3012-4333-aae4-83ce44b8ac23" />
+<img width="1050" height="600" alt="class_distribution" src="https://github.com/user-attachments/assets/3318614f-11c6-4539-8c66-b6f311f2f23d" />
