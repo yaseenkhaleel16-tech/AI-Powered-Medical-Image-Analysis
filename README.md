@@ -61,3 +61,7 @@ For an advanced educational version, explore reputable public datasets and follo
 <img width="1500" height="600" alt="sample_preprocessed_images" src="https://github.com/user-attachments/assets/4343722e-fcf5-4cb2-b9d3-504c898e58b1" />
 <img width="825" height="675" alt="confusion_matrix" src="https://github.com/user-attachments/assets/eefba86d-3012-4333-aae4-83ce44b8ac23" />
 <img width="1050" height="600" alt="class_distribution" src="https://github.com/user-attachments/assets/3318614f-11c6-4539-8c66-b6f311f2f23d" />
+
+
+Github:https://github.com/yaseenkhaleel16-tech/AI-Powered-Medical-Image-Analysis
+Linkedin: https://www.linkedin.com/in/yaseen-khaleel-6a535a432/
